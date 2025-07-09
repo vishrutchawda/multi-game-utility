@@ -64,6 +64,14 @@ The computer opponent in Tic-Tac-Toe and Hand Cricket uses basic random logic.
 Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. Please ensure your changes are well-documented and follow the existing code style.
 
+## Future Improvements
+
+     - Add dynamic memory allocation for larger matrices.
+     - Support user-defined Sudoku puzzles or file-based input.
+     - Enable bidirectional unit conversions.
+     - Improve Tic-Tac-Toe and Hand Cricket AI with smarter strategies.
+     - Add robust input validation for all user inputs.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details (if included).
 
